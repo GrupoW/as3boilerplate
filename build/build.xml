@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<project default="fla_fileset" basedir="." name="Fuel Ant Task Example">
+
+    <taskdef resource="FuelAntTasks.properties" classpath="FuelAntTasks.jar" />
+    <property name="fla.dir" location="./../fla"/>
+    <target name="fla_fileset">
+        <flash path="/Applications/Adobe Flash CS5/Adobe Flash CS5.app">
+            <fileset dir="${fla.dir}" />
+        </flash>
+    </target>
+            
+</project>

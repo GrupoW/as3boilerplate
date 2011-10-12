@@ -1,0 +1,18 @@
+# default
+#bin/*
+
+# Textmate - if you build your as3 projects with it
+*.tm_build_errors
+
+# old skool
+.svn
+
+# osx noise
+.DS_Store
+profile
+
+# FDT noise
+.as3_classpath
+.project
+.settings/*
+build/fuelanttasks/*
