@@ -18,7 +18,7 @@ this project template includes:
 
 * [As3corelib - 0.93](https://github.com/mikechambers/as3corelib)
 
-* [SWFAddress - 2.4.swc](http://www.asual.com/swfaddress/)
+* [SWFAddress - 2.4](http://www.asual.com/swfaddress/)
 
 * [GuardedCommandMap utility](https://github.com/Stray/GuardedCommandMap)
 
@@ -26,7 +26,6 @@ this project template includes:
 
 * [SignalMediator utility](https://github.com/Stray/robotlegs-utilities-SignalMediator)
 
-* [FuelAntTasks](http://code.google.com/p/fuelanttasks/)
-
 * [AS3 Vanilla](https://github.com/jonnyreeves/as3-vanilla)
 
+* [FuelAntTasks](http://code.google.com/p/fuelanttasks/)
