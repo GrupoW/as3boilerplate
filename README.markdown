@@ -27,3 +27,6 @@ this project template includes:
 * [SignalMediator utility](https://github.com/Stray/robotlegs-utilities-SignalMediator)
 
 * [FuelAntTasks](http://code.google.com/p/fuelanttasks/)
+
+* [AS3 Vanilla](https://github.com/jonnyreeves/as3-vanilla)
+
